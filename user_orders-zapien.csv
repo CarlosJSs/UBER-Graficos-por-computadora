@@ -1,0 +1,6 @@
+City_Name,Restaurant_Name,Request_Time_Local,Final_Delivery_Time_Local,Order_Status,Item_Name,Item_quantity,Customizations,Customization_Cost_Local,Special_Instructions,Item_Price,Order_Price,Currency
+Irapuato,KFC (Irapuato-760),2020-01-04T13:41:25.000Z,,completed,Mega Box Ke-Tiras Navidad,1,"Bisquet Natural, 100% BBQ, Coca Cola, Puré de papa, Arroz",0.0,,119.0,160.0,MXN
+Irapuato,KFC (Irapuato-760),2020-01-04T13:41:25.000Z,,completed,Mega Box Ke-Tiras Navidad,1,Churro Bites Individuales Nutella,21.0,,119.0,160.0,MXN
+Irapuato,Burger King (Terminal de Autobuses Irapuato),2019-12-21T13:22:45.000Z,,completed,King Fusion Oreo,1,"",,,35.0,124.0,MXN
+Irapuato,Burger King (Terminal de Autobuses Irapuato),2019-12-21T13:22:45.000Z,,completed,Whopper BBQ Tocino,1,7 Up,0.0,,119.0,124.0,MXN
+Irapuato,Burger King (Terminal de Autobuses Irapuato),2019-12-15T13:43:22.000Z,,completed,Combo Whopper con Queso + Papas Supremas,1,Pepsi,0.0,Sin cebolla,109.0,139.0,MXN

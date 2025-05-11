@@ -1,0 +1,6 @@
+City_Name,Restaurant_Name,Request_Time_Local,Final_Delivery_Time_Local,Order_Status,Item_Name,Item_quantity,Customizations,Customization_Cost_Local,Special_Instructions,Item_Price,Order_Price,Currency
+San Miguel de Allende,Little Caesars (San Miguel de Allende),2024-11-18T15:49:15.000Z,2024-11-18T16:17:42.000Z,completed,Paquete Fiesta,1,"1 Crazy Sauce, Pepsi, 1 Crazy Bread, Pizza de pepperoni",0.0,"",349.0,534.68,MXN
+San Miguel de Allende,Little Caesars (San Miguel de Allende),2024-11-18T15:49:15.000Z,2024-11-18T16:17:42.000Z,completed,Caesar Boneless,1,Spicy BBQ,0.0,"",129.0,534.68,MXN
+San Miguel de Allende,Burger King (San Miguel de Allende),2022-09-10T16:55:21.000Z,2022-09-10T17:29:03.000Z,completed,Combo Whopper con Queso,2,Papas Grandes,20.0,,144.0,380.4,MXN
+San Miguel de Allende,Burger King (San Miguel de Allende),2022-09-10T16:55:21.000Z,2022-09-10T17:29:03.000Z,completed,Combo Whopper con Queso,2,7Up,0.0,,144.0,380.4,MXN
+San Miguel de Allende,Arigato comida japonesa (San Miguel de Allende),2022-07-02T16:06:56.000Z,2022-07-02T16:38:51.000Z,completed,Arrachera Empanizado,3,"",,,119.0,304.85,MXN

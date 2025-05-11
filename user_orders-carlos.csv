@@ -1,0 +1,12 @@
+City_Name,Restaurant_Name,Request_Time_Local,Final_Delivery_Time_Local,Order_Status,Item_Name,Item_quantity,Customizations,Customization_Cost_Local,Special_Instructions,Item_Price,Order_Price,Currency
+Salamanca,Carl's Jr. (Via Alta Salamanca),2025-03-03T13:18:39.000Z,2025-03-03T14:07:09.000Z,completed,Guacamole Bacon Burger,1,"",,"",149.0,479.99,MXN
+Salamanca,Carl's Jr. (Via Alta Salamanca),2025-03-03T13:18:39.000Z,2025-03-03T14:07:09.000Z,completed,Combo El Diablo Big Angus Burger,1,"Coca-Cola Original, Papas a la francesa chicas",0.0,"",315.0,479.99,MXN
+Salamanca,Carl's Jr. (Via Alta Salamanca),2025-03-03T13:18:39.000Z,2025-03-03T14:07:09.000Z,completed,Combo Double Western Bacon Cheeseburger®,1,"Sprite, Papas a la francesa chicas",0.0,"",255.0,479.99,MXN
+Salamanca,Carl's Jr. (Via Alta Salamanca),2024-10-21T11:54:30.000Z,2024-10-21T13:05:24.000Z,completed,Double Western Bacon Cheeseburger®,3,"",,"",507.0,499.42,MXN
+Salamanca,Subway (Via Alta),2024-09-30T12:51:35.000Z,2024-09-30T13:20:17.000Z,completed,4 Leyendas Subs,1,"Mayonesa, Pan Blanco, Cebolla Morada, Ranch, Sal, Pimienta, Estilo Americano, Jamón de pavo - Subs 15 CM, Lechuga, Jitomates, Jalapeños, Salsa BBQ, Tostado, Pimientos Verdes, Pan de Ajo Rostizado, Chipotle, Pepinillos, Pizza Sub - Subs 15 CM, Pan Integral, Pepinos, Queso estilo Manchego",0.0,"",219.0,315.5,MXN
+Salamanca,Little Caesars (Galerías),2024-09-09T12:41:16.000Z,2024-09-09T13:45:41.000Z,completed,Combo Pizzamanía,1,"Pizza 3 Meat Treat, Super Cheese de Pepperoni",0.0,"",355.0,355.0,MXN
+Salamanca,Carl's Jr. (Via Alta Salamanca),2024-08-19T12:26:07.000Z,2024-08-19T12:59:07.000Z,completed,Double Western Bacon Cheeseburger®,1,"",,"",169.0,867.0,MXN
+Salamanca,Carl's Jr. (Via Alta Salamanca),2024-08-19T12:26:07.000Z,2024-08-19T12:59:07.000Z,completed,Papas a la francesa grandes,1,"",,"",59.0,867.0,MXN
+Salamanca,Carl's Jr. (Via Alta Salamanca),2024-08-19T12:26:07.000Z,2024-08-19T12:59:07.000Z,completed,Combo Double Western Bacon Cheeseburger®,1,"Sprite, Coca-Cola Original, Papas a la francesa chicas",0.0,"",245.0,867.0,MXN
+Salamanca,Carl's Jr. (Via Alta Salamanca),2024-08-19T12:26:07.000Z,2024-08-19T12:59:07.000Z,completed,Classic Sandwich,1,"",,"",149.0,867.0,MXN
+Irapuato,Sushi Tai (Plaza Cibeles),2021-09-29T12:52:00.000Z,2021-09-29T13:39:18.000Z,completed,California Maki Tampico,4,"",,,73.0,14.6,MXN
