@@ -1,6 +1,15 @@
 
 # app.R
 
+# Proyecto final de la materia Graficos por Computadora
+#   Objetivo:
+#       Visualizacion de datos
+#   Integrantes: 
+#       Lopez Gutierrez Carlos Eduardo
+#       Zapien Saavedra David      
+#       Morales Teloxa David
+
+# Librerias a utilizar
 library(shiny)
 library(shinydashboard)
 library(shinythemes)
